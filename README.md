@@ -4,7 +4,7 @@
 
 - [Active Directory Homelab w/ Powershell](https://github.com/joshmadakor1/Algorithms-Practice)
   
-<h2>Certfications:</h2>
+<h2>📄 Certfications:</h2>
 
   - [Google IT Professional](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Google Cybersecurity Professional](https://github.com/joshmadakor1/Algorithms-Practice)
