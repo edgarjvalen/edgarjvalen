@@ -6,14 +6,14 @@
   
 <h2>📄 Certfications:</h2>
 
-  - [Google IT Professional](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Google Cybersecurity Professional](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CompTIA Network+](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CompTIA A+](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [LPI Linux Essentials](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [ITIL 4 Foundation](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Azure Fundamentals - AZ900](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google IT Professional](https://www.coursera.org/account/accomplishments/professional-cert/33L58SH5EWBM)
+  - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/XFJGP5S4SG4S)
+  - [CompTIA Security+](https://www.credly.com/badges/b63222e6-829e-4d65-91b1-771a509b8771/public_url)
+  - [CompTIA Network+](https://www.credly.com/badges/82f685bf-6c82-4a99-bc7b-a7d4a5494e62/public_url)
+  - [CompTIA A+](https://www.credly.com/badges/00f78f43-9de9-45cc-90f5-11dfb1184096/public_url)
+  - [LPI Linux Essentials]
+  - [ITIL 4 Foundation]
+  - [Azure Fundamentals - AZ900](https://www.credly.com/badges/ea1e9942-a8cf-4fa1-b867-85389822aa97/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
