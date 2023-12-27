@@ -1,6 +1,6 @@
 <h1>Hi, I'm Edgar! <br/><a href="https://github.com/edgarjvalen"></a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - [Active Directory Homelab w/ Powershell](https://github.com/joshmadakor1/Algorithms-Practice)
   
