@@ -1,6 +1,7 @@
 <h1>Hi, I'm Edgar, an <a href="https://linkedin.com/in/edgarvalenz">IT and Cybersecurity Professional</a>☺</h1>
 
 <h2>👨‍💻 Projects:</h2>
+<h3>IT:</h3>
 
 - [Active Directory Homelab w/ Powershell](https://github.com/joshmadakor1/Algorithms-Practice)
   
