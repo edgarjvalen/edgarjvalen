@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 <h3>IT:</h3>
 
-- [Active Directory Homelab w/ Powershell](https://github.com/edgarjvalen/HomeLab)) 
+- [Active Directory Homelab w/ Powershell](https://github.com/edgarjvalen/HomeLab)
   
 <h2>📄 Certfications:</h2>
 
