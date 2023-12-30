@@ -1,9 +1,9 @@
 <h1>Hi, I'm Edgar, an <a href="https://linkedin.com/in/edgarvalenz">IT Professional </a>☺</h1>
 
 <h2>👨‍💻 Projects:</h2>
-<h3>IT:</h3>
+<h3>Azure:</h3>
 
-- [Active Directory Homelab w/ Powershell](https://github.com/edgarjvalen/install-active-directory-create-users)
+- [Installing Active Directory and Creating Users w/ PowerShell](https://github.com/edgarjvalen/install-active-directory-create-users)
   
 <h2>📄 Certfications:</h2>
 
