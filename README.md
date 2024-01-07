@@ -4,6 +4,7 @@
 <h3>Microsoft Azure:</h3>
 
 - [Installing Active Directory and Creating Users w/ PowerShell](https://github.com/edgarjvalen/install-active-directory-create-users)
+- [Setting Up MFA and Protecting RDP Using Duo (Server 2019)](https://github.com/edgarjvalen/rdp-mfa-duo-azure/blob/main/README.md)
   
 <h2>📄 Certfications:</h2>
 
