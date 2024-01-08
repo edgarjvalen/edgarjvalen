@@ -8,7 +8,7 @@
 
 <h3>Cybersecurity:</h3>
 
-- [Creating a Live Honeynet in Azure](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
+- [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
   
 <h2>📄 Certfications:</h2>
 
