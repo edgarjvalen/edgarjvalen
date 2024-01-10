@@ -13,6 +13,7 @@
   
 <h2>📄 Certfications:</h2>
 
+  - ISC2 SSCP
   - [Google IT Professional](https://www.coursera.org/account/accomplishments/professional-cert/33L58SH5EWBM)
   - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/XFJGP5S4SG4S)
   - [CompTIA Security+](https://www.credly.com/badges/b63222e6-829e-4d65-91b1-771a509b8771/public_url)
