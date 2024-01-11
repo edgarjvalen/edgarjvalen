@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edgar, an <a href="https://linkedin.com/in/edgarvalenz">IT Professional </a>☺</h1>
+<h1>Hi, I'm Edgar, an <a href="https://linkedin.com/in/edgarvalenz">IT and Cybersecurity Professional </a>☺</h1>
 
 <h2>👨‍💻 Projects:</h2>
 <h3>Microsoft Azure:</h3>
