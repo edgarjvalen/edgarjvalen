@@ -9,7 +9,7 @@
 <h3>Cybersecurity:</h3>
 
 - [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
-- [ncident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
+- [Incident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
   
 <h2>📄 Certfications:</h2>
 
