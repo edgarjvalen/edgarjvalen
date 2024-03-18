@@ -13,7 +13,7 @@
 
 <h3>Python:</h3>
 
-- [Enhancing SOC Operations: Scalable IP Address Management w/ Python](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
+- [Enhancing SOC Operations: Scalable IP Address Management w/ Python](https://github.com/edgarjvalen/ipinfo/blob/main/README.md)
 
   
 <h2>📄 Certfications:</h2>
