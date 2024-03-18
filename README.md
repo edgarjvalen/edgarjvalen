@@ -10,6 +10,11 @@
 
 - [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
 - [Incident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
+
+<h3>Python:</h3>
+
+- [Enhancing SOC Operations: Scalable IP Address Management w/ Python](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
+
   
 <h2>📄 Certfications:</h2>
 
