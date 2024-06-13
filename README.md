@@ -14,14 +14,14 @@
 <h3>🐍 Python:</h3>
 
 - [Enhancing SOC Operations: Scalable IP Address Management w/ Python](https://github.com/edgarjvalen/ipinfo/blob/main/README.md)
-- [VirusTotal API Analysis Tool] 
+- [VirusTotal API Analysis Tool](https://github.com/edgarjvalen/sec_analysis_tool/blob/main/README.md)
   
 <h2>🏅 Certfications:</h2>
 
   - ISC2 SSCP
   - TryHackMe SOC Analyst I
-  - [CompTIA Pentest+] (https://www.credly.com/badges/490e8b3b-d8bf-4c83-91e5-dbea7e50f84f/public_url)
-  - [CompTIA CySA+] (https://www.credly.com/badges/0943de12-761a-45fb-9262-33a020077973/public_url)
+  - [CompTIA Pentest+](https://www.credly.com/badges/490e8b3b-d8bf-4c83-91e5-dbea7e50f84f/public_url)
+  - [CompTIA CySA+](https://www.credly.com/badges/0943de12-761a-45fb-9262-33a020077973/public_url)
   - [CompTIA Security+](https://www.credly.com/badges/b63222e6-829e-4d65-91b1-771a509b8771/public_url)
   - [CompTIA Network+](https://www.credly.com/badges/82f685bf-6c82-4a99-bc7b-a7d4a5494e62/public_url)
   - [CompTIA A+](https://www.credly.com/badges/00f78f43-9de9-45cc-90f5-11dfb1184096/public_url)
