@@ -11,7 +11,7 @@
 - [Incident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
 
 ### 🦅 Crowstrike Falcon
-- [Investigate Scheduled Tasks in RTR Session](https://github.com/edgarjvalen/Investigate-Scheduled-Tasks-in-Falcon-RTR-Session/edit/main/README.md)
+- [Investigate Scheduled Tasks in RTR Session](https://github.com/edgarjvalen/Investigate-Scheduled-Tasks-in-Falcon-RTR-Session/tree/main)
 
 ### 🐍 Python:
 - [Enhancing SOC Operations: Scalable IP Address Management w/ Python](https://github.com/edgarjvalen/ipinfo/blob/main/README.md)
