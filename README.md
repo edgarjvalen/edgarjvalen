@@ -9,6 +9,7 @@
 ### 🔐 Cybersecurity
 - [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
 - [Incident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
+- [ForensiFox - Firefox Digital Forensics Tool](https://github.com/edgarjvalen/ForensiFox)
 
 ### 🦅 Crowstrike Falcon
 - [Investigate Scheduled Tasks in RTR Session](https://github.com/edgarjvalen/Investigate-Scheduled-Tasks-in-Falcon-RTR-Session/tree/main)
