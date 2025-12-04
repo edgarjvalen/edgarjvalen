@@ -2,6 +2,9 @@
 
 ## 👨‍💻 Projects
 
+### Cloud Engineering
+- [AWS Multi-Tier Infrastructure](https://github.com/edgarjvalen/AWS-Multi-Tier-Infrastructure/tree/main)
+  
 ### Microsoft Azure
 - [Installing Active Directory and Creating Users w/ PowerShell](https://github.com/edgarjvalen/install-active-directory-create-users)
 - [Setting Up MFA and Protecting RDP Using Duo (Server 2019)](https://github.com/edgarjvalen/rdp-mfa-duo-azure/blob/main/README.md)
