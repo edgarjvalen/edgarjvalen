@@ -4,6 +4,7 @@
 
 ### Cloud Engineering
 - [AWS Multi-Tier Infrastructure with Terraform](https://github.com/edgarjvalen/AWS-Multi-Tier-Infrastructure/tree/main)
+- [AWS Static Website with CloudFront CDN](https://github.com/edgarjvalen/S3-StaticWebsite-CloudFront)
   
 ### Microsoft Azure
 - [Installing Active Directory and Creating Users w/ PowerShell](https://github.com/edgarjvalen/install-active-directory-create-users)
