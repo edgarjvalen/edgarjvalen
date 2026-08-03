@@ -1,39 +1,40 @@
-# Hi, I'm Edgar, a [Cybersecurity Professional](https://linkedin.com/in/edgarvalenz)
+Security engineer in progress. Started in the SOC watching attacks happen; now I'm on the other side, breaking and fixing the applications that generate those alerts.
 
-## 👨‍💻 Projects
+📍 Currently: building full-lifecycle AppSec assessments — threat model → exploit → detect → fix.
 
-### Cloud Engineering
-- [AWS Multi-Tier Infrastructure with Terraform](https://github.com/edgarjvalen/AWS-Multi-Tier-Infrastructure/tree/main)
-- [AWS Static Website with CloudFront CDN](https://github.com/edgarjvalen/S3-StaticWebsite-CloudFront)
-  
-### Microsoft Azure
-- [Installing Active Directory and Creating Users w/ PowerShell](https://github.com/edgarjvalen/install-active-directory-create-users)
-- [Setting Up MFA and Protecting RDP Using Duo (Server 2019)](https://github.com/edgarjvalen/rdp-mfa-duo-azure/blob/main/README.md)
+---
 
-### 🔐 Cybersecurity
+## Application Security
+
+| Project | What it demonstrates | Status |
+|---|---|---|
+| **[TaskVault](https://github.com/edgarjvalen/websec-assessment-taskvault)** — FastAPI + PostgreSQL app, deliberately vulnerable then remediated | Threat modeling, secure code review, SQLi/XSS/IDOR/auth flaws, SAST (Semgrep), DAST (OWASP ZAP), dependency & secrets scanning (Trivy, Gitleaks), remediation with regression tests | 🚧 In progress |
+| **CI/CD Security Pipeline** | Shifting security left — SAST/dependency/secrets scanning wired into a build pipeline | 🔜 Planned |
+
+---
+
+## Background
+
+Before AppSec, I worked the defensive side: SOC monitoring, incident response, forensics. That's the lens I bring to finding vulnerabilities — I've triaged what these bugs look like from the analyst's side of the alert.
+
+**Security Operations & IR**
 - [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
 - [Incident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
-- [ForensiFox - Firefox Digital Forensics Tool](https://github.com/edgarjvalen/ForensiFox)
+- [ForensiFox — Firefox Digital Forensics Tool](https://github.com/edgarjvalen/ForensiFox)
+- [Investigate Scheduled Tasks in a CrowdStrike Falcon RTR Session](https://github.com/edgarjvalen/Investigate-Scheduled-Tasks-in-Falcon-RTR-Session/tree/main)
 
-### 🦅 Crowstrike Falcon
-- [Investigate Scheduled Tasks in RTR Session](https://github.com/edgarjvalen/Investigate-Scheduled-Tasks-in-Falcon-RTR-Session/tree/main)
-
-### 🐍 Python:
-- [Enhancing SOC Operations: Scalable IP Address Management w/ Python](https://github.com/edgarjvalen/ipinfo/blob/main/README.md)
+**Tooling & Automation (Python)**
 - [VirusTotal API Analysis Tool](https://github.com/edgarjvalen/sec_analysis_tool/blob/main/README.md)
-  
-## 🏅 Certifications
-- [CompTIA Pentest+](https://www.credly.com/badges/490e8b3b-d8bf-4c83-91e5-dbea7e50f84f/public_url)
-- [CompTIA CySA+](https://www.credly.com/badges/0943de12-761a-45fb-9262-33a020077973/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/b63222e6-829e-4d65-91b1-771a509b8771/public_url)
-- [CompTIA Network+](https://www.credly.com/badges/82f685bf-6c82-4a99-bc7b-a7d4a5494e62/public_url)
-- [CompTIA A+](https://www.credly.com/badges/00f78f43-9de9-45cc-90f5-11dfb1184096/public_url)
-- [Azure Fundamentals - AZ900](https://www.credly.com/badges/ea1e9942-a8cf-4fa1-b867-85389822aa97/public_url)
-- ISC2 SSCP
-- TryHackMe SOC Analyst I
-- LPI Linux Essentials
-- ITIL 4 Foundation
+- [Scalable IP Address Management for SOC Ops](https://github.com/edgarjvalen/ipinfo/blob/main/README.md)
 
-<h2> 🤳 Connect with me:</h2>
+**Cloud & Infrastructure**
+- [AWS Multi-Tier Infrastructure with Terraform](https://github.com/edgarjvalen/AWS-Multi-Tier-Infrastructure/tree/main)
+- [AWS Static Website with CloudFront CDN](https://github.com/edgarjvalen/S3-StaticWebsite-CloudFront)
+- [Active Directory + User Creation via PowerShell](https://github.com/edgarjvalen/install-active-directory-create-users)
+- [MFA & RDP Hardening with Duo (Server 2019)](https://github.com/edgarjvalen/rdp-mfa-duo-azure/blob/main/README.md)
 
-<a href="https://linkedin.com/in/edgarvalenz"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
+
+## Certifications
+
+`CompTIA Pentest+` · `CompTIA CySA+` · `CompTIA Security+` · `CompTIA Network+` · `CompTIA A+` · `Azure AZ-900` · `ISC2 SSCP` · `TryHackMe SOC Analyst I` · `LPI Linux Essentials` · `ITIL 4 Foundation`
