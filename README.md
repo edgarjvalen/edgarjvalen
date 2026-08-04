@@ -8,7 +8,7 @@ Security engineer in progress. Started in the SOC watching attacks happen; now I
 
 | Project | What it demonstrates | Status |
 |---|---|---|
-| **[TaskVault](https://github.com/edgarjvalen/websec-assessment-taskvault)** — FastAPI + PostgreSQL app, deliberately vulnerable then remediated | Threat modeling, secure code review, SQLi/XSS/IDOR/auth flaws, SAST (Semgrep), DAST (OWASP ZAP), dependency & secrets scanning (Trivy, Gitleaks), remediation with regression tests | 🚧 In progress |
+| **[TaskVault](https://github.com/edgarjvalen/websec-assessment-taskvault)** — FastAPI + PostgreSQL app, deliberately vulnerable then remediated | Threat modeling, secure code review, SQLi/XSS/IDOR/auth flaws, SAST (Semgrep), DAST (OWASP ZAP), dependency & secrets scanning (Trivy, Gitleaks), remediation with regression tests | Completed |
 | **CI/CD Security Pipeline** | Shifting security left — SAST/dependency/secrets scanning wired into a build pipeline | 🔜 Planned |
 
 ---
