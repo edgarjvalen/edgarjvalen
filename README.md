@@ -72,4 +72,4 @@ Before AppSec, I worked the defensive side: SOC monitoring, incident response, f
 
 ## Certifications
 
-`AWS Certified Solutions Architect - Associate` · `Certified Web Red Team Analyst (Web-RTA)` · `CompTIA Pentest+` · `CompTIA CySA+` · `CompTIA Security+` · `CompTIA Network+` · `CompTIA A+` · `Azure AZ-900` · `ISC2 SSCP` · `TryHackMe SOC Analyst I` · `LPI Linux Essentials` · `ITIL 4 Foundation`
+`AWS Certified Solutions Architect - Associate` · `Certified Web Red Team Analyst (Web-RTA)` · `CompTIA Pentest+` · `CompTIA CySA+` · `CompTIA Security+` · `CompTIA Network+` · `CompTIA A+` · `AWS Certified Cloud Practitioner` . `Azure AZ-900` · `ISC2 SSCP` · `TryHackMe SOC Analyst I` · `LPI Linux Essentials` · `ITIL 4 Foundation`
