@@ -8,8 +8,6 @@ Started in the SOC watching attacks happen. Now I'm on the other side, breaking 
 
 📍 Currently building full-lifecycle AppSec assessments — **threat model → exploit → detect → fix**
 
-[![GitHub](https://img.shields.io/badge/GitHub-edgarjvalen-181717?style=flat-square&logo=github)](https://github.com/edgarjvalen)
-
 </div>
 
 ---
