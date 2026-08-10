@@ -16,19 +16,19 @@ Started in the SOC watching attacks happen. Now I'm on the other side, breaking 
 
 | Project | What it demonstrates | Key Result |
 |---|---|---|
-| **[TaskVault](https://github.com/edgarjvalen/websec-assessment-taskvault)** — FastAPI + PostgreSQL app, deliberately vulnerable then remediated | Threat modeling, secure code review, SQLi/XSS/IDOR/auth flaws, SAST (Semgrep), DAST (OWASP ZAP), dependency & secrets scanning (Trivy, Gitleaks), remediation with regression tests | Found and fixed 15 vulnerabilities, zero regressions |
-| **[API Security Lab](https://github.com/edgarjvalen/api-security-lab)** — Intentionally vulnerable REST API, manually assessed | OWASP API Security Top 10, BOLA, BFLA, mass assignment → privilege escalation, JWT security, Burp Suite manual testing, automated-vs-manual DAST comparison | Manually caught 6 critical flaws that automated scanning missed entirely |
-| **[TaskVault CI/CD Pipeline](https://github.com/edgarjvalen/taskvault-cicd-pipeline)** — Same vulnerable app, wrapped in an enforced security pipeline | GitHub Actions, shift-left security, SAST/SCA/secrets/DAST wired into CI, SARIF → GitHub Security tab, branch protection blocking insecure merges | Built a pipeline that blocks insecure code before it merges |
+| **[TaskVault](https://github.com/edgarjvalen/websec-assessment-taskvault)**: FastAPI + PostgreSQL app, deliberately vulnerable then remediated | Threat modeling, secure code review, SQLi/XSS/IDOR/auth flaws, SAST (Semgrep), DAST (OWASP ZAP), dependency & secrets scanning (Trivy, Gitleaks), remediation with regression tests | Found and fixed 15 vulnerabilities, zero regressions |
+| **[API Security Lab](https://github.com/edgarjvalen/api-security-lab)**: Intentionally vulnerable REST API, manually assessed | OWASP API Security Top 10, BOLA, BFLA, mass assignment → privilege escalation, JWT security, Burp Suite manual testing, automated-vs-manual DAST comparison | Manually caught 6 critical flaws that automated scanning missed entirely |
+| **[TaskVault CI/CD Pipeline](https://github.com/edgarjvalen/taskvault-cicd-pipeline)**: Same vulnerable app, wrapped in an enforced security pipeline | GitHub Actions, shift-left security, SAST/SCA/secrets/DAST wired into CI, SARIF → GitHub Security tab, branch protection blocking insecure merges | Built a pipeline that blocks insecure code before it merges |
 
 <details>
 <summary><b>More on each project</b></summary>
 <br>
 
-**TaskVault** — Full-lifecycle assessment of a ticketing app: built a secure baseline, threat-modeled it with STRIDE, deliberately planted 8 vulnerabilities on a separate branch, ran the full tooling stack, triaged 15 findings, remediated everything with regression tests, and shipped a PDF security report.
+**TaskVault** - Full-lifecycle assessment of a ticketing app: built a secure baseline, threat-modeled it with STRIDE, deliberately planted 8 vulnerabilities on a separate branch, ran the full tooling stack, triaged 15 findings, remediated everything with regression tests, and shipped a PDF security report.
 
-**API Security Lab** — A tightly scoped notes API with six real, manually exploited vulnerabilities, chained mass assignment into full privilege escalation. The standout result: automated DAST (ZAP) caught **zero** of the six confirmed vulnerabilities on either the vulnerable or remediated branch, everything it found required manual, logic-driven testing built around an authorization matrix.
+**API Security Lab** - A tightly scoped notes API with six real, manually exploited vulnerabilities, chained mass assignment into full privilege escalation. The standout result: automated DAST (ZAP) caught **zero** of the six confirmed vulnerabilities on either the vulnerable or remediated branch, everything it found required manual, logic-driven testing built around an authorization matrix.
 
-**TaskVault CI/CD Pipeline** — Took the same vulnerable codebase and inverted the workflow: built the GitHub Actions security pipeline *first*, let it fail red against vulnerable code, then fixed findings in commits while watching jobs flip to green. Five parallel jobs (pytest, Semgrep, Trivy, Gitleaks, authenticated ZAP DAST spun up live inside the CI runner) now gate every merge to `main` via branch protection.
+**TaskVault CI/CD Pipeline** - Took the same vulnerable codebase and inverted the workflow: built the GitHub Actions security pipeline *first*, let it fail red against vulnerable code, then fixed findings in commits while watching jobs flip to green. Five parallel jobs (pytest, Semgrep, Trivy, Gitleaks, authenticated ZAP DAST spun up live inside the CI runner) now gate every merge to `main` via branch protection.
 
 </details>
 
