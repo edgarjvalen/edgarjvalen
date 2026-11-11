@@ -58,6 +58,11 @@ I work in security operations at a defense contractor, handling incident respons
 
 ## Tools & Tech
 
+![CrowdStrike](https://img.shields.io/badge/-CrowdStrike%20Falcon-FC0000?style=flat-square&logo=crowdstrike&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
