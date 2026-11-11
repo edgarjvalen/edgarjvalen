@@ -4,9 +4,9 @@
 
 ### Security Engineer in Progress
 
-Started in the SOC watching attacks happen. Now I'm on the other side, breaking and fixing the applications that generate those alerts.
+Detection engineering, security automation, cloud security, and AppSec. I started in the SOC triaging alerts, and now I build the detections, pipelines, and hardened infrastructure behind them.
 
-📍 Currently building full-lifecycle AppSec assessments — **threat model → exploit → detect → fix**
+📍 Currently building: SIEM detection content, SOC automation, and full-lifecycle AppSec assessments.
 
 </div>
 
