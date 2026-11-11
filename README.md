@@ -12,7 +12,29 @@ Detection engineering, security automation, cloud security, and AppSec. I starte
 
 ---
 
-## Application Security
+## Security Operations, Automation & Cloud
+
+I work in security operations at a defense contractor, handling incident response, detection engineering, and SOC automation. Seeing real attacks from the analyst’s side shapes how I build detections, harden infrastructure, and hunt for vulnerabilities.
+
+**Security Operations & IR**
+- [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
+- [Incident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
+- [ForensiFox — Firefox Digital Forensics Tool](https://github.com/edgarjvalen/ForensiFox)
+- [Investigate Scheduled Tasks in a CrowdStrike Falcon RTR Session](https://github.com/edgarjvalen/Investigate-Scheduled-Tasks-in-Falcon-RTR-Session/tree/main)
+
+**Tooling & Automation (Python)**
+- [VirusTotal API Analysis Tool](https://github.com/edgarjvalen/sec_analysis_tool/blob/main/README.md)
+- [Scalable IP Address Management for SOC Ops](https://github.com/edgarjvalen/ipinfo/blob/main/README.md)
+
+**Cloud & Infrastructure**
+- [AWS Multi-Tier Infrastructure with Terraform](https://github.com/edgarjvalen/AWS-Multi-Tier-Infrastructure/tree/main)
+- [AWS Static Website with CloudFront CDN](https://github.com/edgarjvalen/S3-StaticWebsite-CloudFront)
+- [Active Directory + User Creation via PowerShell](https://github.com/edgarjvalen/install-active-directory-create-users)
+- [MFA & RDP Hardening with Duo (Server 2019)](https://github.com/edgarjvalen/rdp-mfa-duo-azure/blob/main/README.md)
+
+---
+
+## Application Security & DevSecOps
 
 | Project | What it demonstrates | Key Result |
 |---|---|---|
@@ -31,28 +53,6 @@ Detection engineering, security automation, cloud security, and AppSec. I starte
 **TaskVault CI/CD Pipeline** - Took the same vulnerable codebase and inverted the workflow: built the GitHub Actions security pipeline *first*, let it fail red against vulnerable code, then fixed findings in commits while watching jobs flip to green. Five parallel jobs (pytest, Semgrep, Trivy, Gitleaks, authenticated ZAP DAST spun up live inside the CI runner) now gate every merge to `main` via branch protection.
 
 </details>
-
----
-
-## Background
-
-Before AppSec, I worked the defensive side: SOC monitoring, incident response, forensics. That's the lens I bring to finding vulnerabilities, I've triaged what these bugs look like from the analyst's side of the alert.
-
-**Security Operations & IR**
-- [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
-- [Incident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
-- [ForensiFox — Firefox Digital Forensics Tool](https://github.com/edgarjvalen/ForensiFox)
-- [Investigate Scheduled Tasks in a CrowdStrike Falcon RTR Session](https://github.com/edgarjvalen/Investigate-Scheduled-Tasks-in-Falcon-RTR-Session/tree/main)
-
-**Tooling & Automation (Python)**
-- [VirusTotal API Analysis Tool](https://github.com/edgarjvalen/sec_analysis_tool/blob/main/README.md)
-- [Scalable IP Address Management for SOC Ops](https://github.com/edgarjvalen/ipinfo/blob/main/README.md)
-
-**Cloud & Infrastructure**
-- [AWS Multi-Tier Infrastructure with Terraform](https://github.com/edgarjvalen/AWS-Multi-Tier-Infrastructure/tree/main)
-- [AWS Static Website with CloudFront CDN](https://github.com/edgarjvalen/S3-StaticWebsite-CloudFront)
-- [Active Directory + User Creation via PowerShell](https://github.com/edgarjvalen/install-active-directory-create-users)
-- [MFA & RDP Hardening with Duo (Server 2019)](https://github.com/edgarjvalen/rdp-mfa-duo-azure/blob/main/README.md)
 
 ---
 
